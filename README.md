@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mritiyunjay
-- 👀 I’m interested in blockchain, metaverse, IOT, enterprise networking software
+- 👀 I’m interested in blockchain, metaverse, AI, Machine Learning, IOT, enterprise networking software
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me mj.bits06@gmail.com
